@@ -2,6 +2,7 @@
 
 ## 项目介绍
 这是一个。NET5的项目！！
+使用visual stdio tijiao
 
 ## 微信公众号
 
