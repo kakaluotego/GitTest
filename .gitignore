@@ -1,0 +1,16 @@
+*.suo
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+.vscode/
+publish/
+node_modules/
+.idea/
+
+
+
+
